@@ -1,0 +1,8 @@
+{
+  "name": "NOIR GPS - Navigation 3D & Calculateur Prix Taxi",
+  "description": "Application GPS moderne style cockpit monochrome noir et blanc avec vue 3D, guidage virage par virage en temps réel et simulateur tarifaire de taxi intelligent.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
